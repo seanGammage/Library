@@ -1,0 +1,7 @@
+C:\Users\Sean\ClaimAcademy\Projects\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Sean\ClaimAcademy\Projects\Library\Library\bin\Debug\Library.exe
+C:\Users\Sean\ClaimAcademy\Projects\Library\Library\bin\Debug\Library.pdb
+C:\Users\Sean\ClaimAcademy\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Sean\ClaimAcademy\Projects\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Sean\ClaimAcademy\Projects\Library\Library\obj\Debug\Library.exe
+C:\Users\Sean\ClaimAcademy\Projects\Library\Library\obj\Debug\Library.pdb
